@@ -89,7 +89,7 @@ export async function GET(request: NextRequest) {
     // 返回时不暴露密码
     const safeItems = items.map(({ password, ...rest }) => rest);
 
-    const response: AccountListResponse = { items: safeItems, total, page: filter.page!, pageSize: filter.pageSize!, totalPages };
+    const response: AccountListResponse = { items: safeItems as unknown as Account[], total, page: filter.page!, pageSize: filter.pageSize!, totalPages };
     return NextResponse.json(response);
   } catch (error) {
     console.error('GET /api/accounts error:', error);
