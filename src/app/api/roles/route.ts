@@ -48,11 +48,11 @@ export async function GET(request: NextRequest) {
     }
 
     const total = roles.length;
-    const totalPages = Math.ceil(total / filter.pageSize);
-    const start = (filter.page - 1) * filter.pageSize;
-    const items = roles.slice(start, start + filter.pageSize);
+    const totalPages = Math.ceil(total / filter.pageSize!);
+    const start = (filter.page! - 1) * filter.pageSize!;
+    const items = roles.slice(start, start + filter.pageSize!);
 
-    const response: RoleListResponse = { items, total, page: filter.page, pageSize: filter.pageSize, totalPages };
+    const response: RoleListResponse = { items, total, page: filter.page!, pageSize: filter.pageSize!, totalPages };
     return NextResponse.json(response);
   } catch (error) {
     console.error('GET /api/roles error:', error);
