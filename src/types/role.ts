@@ -1,7 +1,7 @@
-/** 页面权限 key — 从统一导航配置导入 */
-export type { PageKey } from '@/config/navigation';
+/** 页面权限 key — 同统一导航配置一致 */
+export type PageKey = 'leads' | 'products' | 'orders' | 'reports' | 'roles' | 'accounts';
 
-/** 页面权限列表 — 从统一导航配置导入 */
+/** 页面导航选项 — 从统一导航配置导入 */
 export { PAGE_OPTIONS } from '@/config/navigation';
 
 /** 功能权限 */
