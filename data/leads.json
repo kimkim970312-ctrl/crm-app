@@ -1,0 +1,269 @@
+{
+  "leads": [
+    {
+      "id": "XL-20240601",
+      "createdAt": "2024-06-01",
+      "name": "陈志强",
+      "phone": "13800138001",
+      "priority": "high",
+      "source": "web",
+      "follower": [
+        "张明远"
+      ]
+    },
+    {
+      "id": "XL-20240602",
+      "createdAt": "2024-06-02",
+      "name": "刘芳华",
+      "phone": "13900139002",
+      "priority": "medium",
+      "source": "referral",
+      "follower": [
+        "李思琪"
+      ]
+    },
+    {
+      "id": "XL-20240603",
+      "createdAt": "2024-06-03",
+      "name": "王建国",
+      "phone": "13700137003",
+      "priority": "low",
+      "source": "ads",
+      "follower": [
+        "王浩然"
+      ]
+    },
+    {
+      "id": "XL-20240604",
+      "createdAt": "2024-06-04",
+      "name": "赵雪梅",
+      "phone": "13600136004",
+      "priority": "high",
+      "source": "event",
+      "follower": [
+        "赵雨萱"
+      ]
+    },
+    {
+      "id": "XL-20240605",
+      "createdAt": "2024-06-05",
+      "name": "孙伟",
+      "phone": "13500135005",
+      "priority": "medium",
+      "source": "social",
+      "follower": [
+        "张明远"
+      ]
+    },
+    {
+      "id": "XL-20240606",
+      "createdAt": "2024-06-06",
+      "name": "周丽萍",
+      "phone": "13400134006",
+      "priority": "high",
+      "source": "web",
+      "follower": [
+        "李思琪"
+      ]
+    },
+    {
+      "id": "XL-20240607",
+      "createdAt": "2024-06-07",
+      "name": "吴磊",
+      "phone": "13300133007",
+      "priority": "low",
+      "source": "referral",
+      "follower": [
+        "王浩然"
+      ]
+    },
+    {
+      "id": "XL-20240608",
+      "createdAt": "2024-06-08",
+      "name": "郑晓燕",
+      "phone": "13200132008",
+      "priority": "medium",
+      "source": "ads",
+      "follower": [
+        "赵雨萱"
+      ]
+    },
+    {
+      "id": "XL-20240609",
+      "createdAt": "2024-06-09",
+      "name": "冯国栋",
+      "phone": "13100131009",
+      "priority": "high",
+      "source": "event",
+      "follower": [
+        "张明远"
+      ]
+    },
+    {
+      "id": "XL-20240610",
+      "createdAt": "2024-06-10",
+      "name": "褚秀英",
+      "phone": "13000130010",
+      "priority": "medium",
+      "source": "social",
+      "follower": [
+        "李思琪"
+      ]
+    },
+    {
+      "id": "XL-20240611",
+      "createdAt": "2024-06-11",
+      "name": "卫明",
+      "phone": "15800158011",
+      "priority": "low",
+      "source": "web",
+      "follower": [
+        "王浩然"
+      ]
+    },
+    {
+      "id": "XL-20240612",
+      "createdAt": "2024-06-12",
+      "name": "蒋丽华",
+      "phone": "15900159012",
+      "priority": "high",
+      "source": "referral",
+      "follower": [
+        "赵雨萱"
+      ]
+    },
+    {
+      "id": "XL-20240613",
+      "createdAt": "2024-06-13",
+      "name": "沈强",
+      "phone": "15700157013",
+      "priority": "medium",
+      "source": "ads",
+      "follower": [
+        "张明远"
+      ]
+    },
+    {
+      "id": "XL-20240614",
+      "createdAt": "2024-06-14",
+      "name": "韩雪",
+      "phone": "15600156014",
+      "priority": "low",
+      "source": "event",
+      "follower": [
+        "李思琪"
+      ]
+    },
+    {
+      "id": "XL-20240615",
+      "createdAt": "2024-06-15",
+      "name": "杨志远",
+      "phone": "15500155015",
+      "priority": "high",
+      "source": "social",
+      "follower": [
+        "王浩然"
+      ]
+    },
+    {
+      "id": "XL-20240616",
+      "createdAt": "2024-06-16",
+      "name": "朱美玲",
+      "phone": "15400154016",
+      "priority": "medium",
+      "source": "web",
+      "follower": [
+        "赵雨萱"
+      ]
+    },
+    {
+      "id": "XL-20240617",
+      "createdAt": "2024-06-17",
+      "name": "秦刚",
+      "phone": "15300153017",
+      "priority": "low",
+      "source": "referral",
+      "follower": [
+        "张明远"
+      ]
+    },
+    {
+      "id": "XL-20240618",
+      "createdAt": "2024-06-18",
+      "name": "许小兰",
+      "phone": "15200152018",
+      "priority": "high",
+      "source": "ads",
+      "follower": [
+        "李思琪"
+      ]
+    },
+    {
+      "id": "XL-20240619",
+      "createdAt": "2024-06-19",
+      "name": "何建军",
+      "phone": "15100151019",
+      "priority": "medium",
+      "source": "event",
+      "follower": [
+        "王浩然"
+      ]
+    },
+    {
+      "id": "XL-20240620",
+      "createdAt": "2024-06-20",
+      "name": "吕桂芳",
+      "phone": "15000150020",
+      "priority": "low",
+      "source": "social",
+      "follower": [
+        "赵雨萱"
+      ]
+    },
+    {
+      "id": "XL-20240621",
+      "createdAt": "2024-06-21",
+      "name": "施伟明",
+      "phone": "18800188021",
+      "priority": "high",
+      "source": "web",
+      "follower": [
+        "张明远"
+      ]
+    },
+    {
+      "id": "XL-20240622",
+      "createdAt": "2024-06-22",
+      "name": "张秀珍",
+      "phone": "18900189022",
+      "priority": "medium",
+      "source": "referral",
+      "follower": [
+        "李思琪"
+      ]
+    },
+    {
+      "id": "XL-20240623",
+      "createdAt": "2024-06-23",
+      "name": "孔令辉",
+      "phone": "18700187023",
+      "priority": "high",
+      "source": "ads",
+      "follower": [
+        "王浩然"
+      ]
+    },
+    {
+      "id": "XL-202606162214",
+      "createdAt": "2026-06-16",
+      "name": "沈星回",
+      "phone": "15869164519",
+      "priority": "medium",
+      "source": "referral",
+      "follower": [
+        "金扶摇",
+        "张明远"
+      ]
+    }
+  ]
+}

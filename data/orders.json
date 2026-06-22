@@ -1,0 +1,214 @@
+{
+  "orders": [
+    {
+      "id": "DD-20240101",
+      "createdAt": "2024-01-01",
+      "orderNo": "ORD00001",
+      "customerName": "陈志强",
+      "customerPhone": "13800138001",
+      "productCode": "PROD00001",
+      "productName": "智能蓝牙耳机 Pro",
+      "amount": 299
+    },
+    {
+      "id": "DD-20240205",
+      "createdAt": "2024-02-05",
+      "orderNo": "ORD00002",
+      "customerName": "刘芳华",
+      "customerPhone": "13900139002",
+      "productCode": "PROD00002",
+      "productName": "简约书桌台灯",
+      "amount": 89
+    },
+    {
+      "id": "DD-20240312",
+      "createdAt": "2024-03-12",
+      "orderNo": "ORD00003",
+      "customerName": "王建国",
+      "customerPhone": "13700137003",
+      "productCode": "PROD00006",
+      "productName": "智能手环 8 代",
+      "amount": 499
+    },
+    {
+      "id": "DD-20240420",
+      "createdAt": "2024-04-20",
+      "orderNo": "ORD00004",
+      "customerName": "赵雪梅",
+      "customerPhone": "13600136004",
+      "productCode": "PROD00010",
+      "productName": "真皮商务手提包",
+      "amount": 599
+    },
+    {
+      "id": "DD-20240515",
+      "createdAt": "2024-05-15",
+      "orderNo": "ORD00005",
+      "customerName": "孙伟",
+      "customerPhone": "13500135005",
+      "productCode": "PROD00005",
+      "productName": "有机绿茶礼盒",
+      "amount": 168
+    },
+    {
+      "id": "DD-20240601",
+      "createdAt": "2024-06-01",
+      "orderNo": "ORD00006",
+      "customerName": "周丽萍",
+      "customerPhone": "13400134006",
+      "productCode": "PROD00013",
+      "productName": "固态硬盘 2TB",
+      "amount": 899
+    },
+    {
+      "id": "DD-20240618",
+      "createdAt": "2024-06-18",
+      "orderNo": "ORD00007",
+      "customerName": "吴磊",
+      "customerPhone": "13300133007",
+      "productCode": "PROD00007",
+      "productName": "人体工学办公椅",
+      "amount": 1899
+    },
+    {
+      "id": "DD-20240710",
+      "createdAt": "2024-07-10",
+      "orderNo": "ORD00008",
+      "customerName": "郑晓燕",
+      "customerPhone": "13200132008",
+      "productCode": "PROD00009",
+      "productName": "无线充电板",
+      "amount": 129
+    },
+    {
+      "id": "DD-20240805",
+      "createdAt": "2024-08-05",
+      "orderNo": "ORD00009",
+      "customerName": "冯国栋",
+      "customerPhone": "13100131009",
+      "productCode": "PROD00016",
+      "productName": "机械键盘",
+      "amount": 349
+    },
+    {
+      "id": "DD-20240901",
+      "createdAt": "2024-09-01",
+      "orderNo": "ORD00010",
+      "customerName": "褚秀英",
+      "customerPhone": "13000130010",
+      "productCode": "PROD00004",
+      "productName": "纯棉休闲T恤",
+      "amount": 79
+    },
+    {
+      "id": "DD-20240920",
+      "createdAt": "2024-09-20",
+      "orderNo": "ORD00011",
+      "customerName": "卫明",
+      "customerPhone": "15800158011",
+      "productCode": "PROD00019",
+      "productName": "全自动咖啡机",
+      "amount": 1599
+    },
+    {
+      "id": "DD-20241010",
+      "createdAt": "2024-10-10",
+      "orderNo": "ORD00012",
+      "customerName": "蒋丽华",
+      "customerPhone": "15900159012",
+      "productCode": "PROD00003",
+      "productName": "多功能打印机",
+      "amount": 1299
+    },
+    {
+      "id": "DD-20241101",
+      "createdAt": "2024-11-01",
+      "orderNo": "ORD00013",
+      "customerName": "沈强",
+      "customerPhone": "15700157013",
+      "productCode": "PROD00015",
+      "productName": "电动牙刷",
+      "amount": 199
+    },
+    {
+      "id": "DD-20241120",
+      "createdAt": "2024-11-20",
+      "orderNo": "ORD00014",
+      "customerName": "韩雪",
+      "customerPhone": "15600156014",
+      "productCode": "PROD00011",
+      "productName": "坚果混搭礼盒",
+      "amount": 128
+    },
+    {
+      "id": "DD-20241205",
+      "createdAt": "2024-12-05",
+      "orderNo": "ORD00015",
+      "customerName": "杨志远",
+      "customerPhone": "15500155015",
+      "productCode": "PROD00017",
+      "productName": "便携式投影仪",
+      "amount": 2599
+    },
+    {
+      "id": "DD-20241220",
+      "createdAt": "2024-12-20",
+      "orderNo": "ORD00016",
+      "customerName": "朱美玲",
+      "customerPhone": "15400154016",
+      "productCode": "PROD00008",
+      "productName": "保温咖啡杯",
+      "amount": 59
+    },
+    {
+      "id": "DD-20250108",
+      "createdAt": "2025-01-08",
+      "orderNo": "ORD00017",
+      "customerName": "秦刚",
+      "customerPhone": "15300153017",
+      "productCode": "PROD00012",
+      "productName": "瑜伽垫加厚款",
+      "amount": 69
+    },
+    {
+      "id": "DD-20250214",
+      "createdAt": "2025-02-14",
+      "orderNo": "ORD00018",
+      "customerName": "许小兰",
+      "customerPhone": "15200152018",
+      "productCode": "PROD00018",
+      "productName": "丝绸睡衣套装",
+      "amount": 239
+    },
+    {
+      "id": "DD-20250301",
+      "createdAt": "2025-03-01",
+      "orderNo": "ORD00019",
+      "customerName": "何建军",
+      "customerPhone": "15100151019",
+      "productCode": "PROD00014",
+      "productName": "智能体重秤",
+      "amount": 99
+    },
+    {
+      "id": "DD-20250325",
+      "createdAt": "2025-03-25",
+      "orderNo": "ORD00020",
+      "customerName": "吕桂芳",
+      "customerPhone": "15000150020",
+      "productCode": "PROD00020",
+      "productName": "户外登山背包",
+      "amount": 329
+    },
+    {
+      "id": "DD-202606183360",
+      "createdAt": "2026-06-18",
+      "orderNo": "ORD00021",
+      "customerName": "沈星回",
+      "customerPhone": "15869164519",
+      "productCode": "PROD00021",
+      "productName": "沈星回等身立牌（光猎版）",
+      "amount": 1998
+    }
+  ]
+}

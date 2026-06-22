@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": "SP-20240101",
+      "createdAt": "2024-01-01",
+      "code": "PROD00001",
+      "name": "智能蓝牙耳机 Pro",
+      "price": 299,
+      "status": "active",
+      "category": "电子产品",
+      "description": "高品质无线蓝牙耳机，支持降噪，续航24小时"
+    },
+    {
+      "id": "SP-20240205",
+      "createdAt": "2024-02-05",
+      "code": "PROD00002",
+      "name": "简约书桌台灯",
+      "price": 89,
+      "status": "active",
+      "category": "家居用品",
+      "description": "LED护眼台灯，三档色温调节"
+    },
+    {
+      "id": "SP-20240312",
+      "createdAt": "2024-03-12",
+      "code": "PROD00003",
+      "name": "多功能打印机",
+      "price": 1299,
+      "status": "active",
+      "category": "办公设备",
+      "description": "打印/复印/扫描三合一，支持无线连接"
+    },
+    {
+      "id": "SP-20240420",
+      "createdAt": "2024-04-20",
+      "code": "PROD00004",
+      "name": "纯棉休闲T恤",
+      "price": 79,
+      "status": "active",
+      "category": "服装配饰",
+      "description": "100%纯棉面料，舒适透气，多色可选"
+    },
+    {
+      "id": "SP-20240515",
+      "createdAt": "2024-05-15",
+      "code": "PROD00005",
+      "name": "有机绿茶礼盒",
+      "price": 168,
+      "status": "active",
+      "category": "食品饮料",
+      "description": "高山有机绿茶，精美礼盒包装"
+    },
+    {
+      "id": "SP-20240601",
+      "createdAt": "2024-06-01",
+      "code": "PROD00006",
+      "name": "智能手环 8 代",
+      "price": 499,
+      "status": "active",
+      "category": "电子产品",
+      "description": "心率监测、血氧检测、50米防水"
+    },
+    {
+      "id": "SP-20240618",
+      "createdAt": "2024-06-18",
+      "code": "PROD00007",
+      "name": "人体工学办公椅",
+      "price": 1899,
+      "status": "active",
+      "category": "办公设备",
+      "description": "全网面透气设计，腰部支撑可调节"
+    },
+    {
+      "id": "SP-20240710",
+      "createdAt": "2024-07-10",
+      "code": "PROD00008",
+      "name": "保温咖啡杯",
+      "price": 59,
+      "status": "inactive",
+      "category": "家居用品",
+      "description": "316不锈钢内胆，6小时保温"
+    },
+    {
+      "id": "SP-20240805",
+      "createdAt": "2024-08-05",
+      "code": "PROD00009",
+      "name": "无线充电板",
+      "price": 129,
+      "status": "active",
+      "category": "电子产品",
+      "description": "15W快充，兼容iPhone/Android"
+    },
+    {
+      "id": "SP-20240901",
+      "createdAt": "2024-09-01",
+      "code": "PROD00010",
+      "name": "真皮商务手提包",
+      "price": 599,
+      "status": "active",
+      "category": "服装配饰",
+      "description": "头层牛皮，大容量设计"
+    },
+    {
+      "id": "SP-20240920",
+      "createdAt": "2024-09-20",
+      "code": "PROD00011",
+      "name": "坚果混搭礼盒",
+      "price": 128,
+      "status": "active",
+      "category": "食品饮料",
+      "description": "六种坚果混合装，每日坚果首选"
+    },
+    {
+      "id": "SP-20241010",
+      "createdAt": "2024-10-10",
+      "code": "PROD00012",
+      "name": "瑜伽垫加厚款",
+      "price": 69,
+      "status": "active",
+      "category": "家居用品",
+      "description": "6mm加厚NBR材质，防滑耐用"
+    },
+    {
+      "id": "SP-20241101",
+      "createdAt": "2024-11-01",
+      "code": "PROD00013",
+      "name": "固态硬盘 2TB",
+      "price": 899,
+      "status": "active",
+      "category": "电子产品",
+      "description": "NVMe协议，读取速度3500MB/s"
+    },
+    {
+      "id": "SP-20241120",
+      "createdAt": "2024-11-20",
+      "code": "PROD00014",
+      "name": "智能体重秤",
+      "price": 99,
+      "status": "discontinued",
+      "category": "医疗保健",
+      "description": "体脂/水分/肌肉率全面检测，已停产"
+    },
+    {
+      "id": "SP-20241205",
+      "createdAt": "2024-12-05",
+      "code": "PROD00015",
+      "name": "电动牙刷",
+      "price": 199,
+      "status": "active",
+      "category": "医疗保健",
+      "description": "声波震动，IPX7防水"
+    },
+    {
+      "id": "SP-20241220",
+      "createdAt": "2024-12-20",
+      "code": "PROD00016",
+      "name": "机械键盘",
+      "price": 349,
+      "status": "active",
+      "category": "电子产品",
+      "description": "cherry青轴，87键紧凑布局"
+    },
+    {
+      "id": "SP-20250108",
+      "createdAt": "2025-01-08",
+      "code": "PROD00017",
+      "name": "便携式投影仪",
+      "price": 2599,
+      "status": "active",
+      "category": "电子产品",
+      "description": "1080P全高清，自动对焦，内置系统"
+    },
+    {
+      "id": "SP-20250214",
+      "createdAt": "2025-02-14",
+      "code": "PROD00018",
+      "name": "丝绸睡衣套装",
+      "price": 239,
+      "status": "active",
+      "category": "服装配饰",
+      "description": "桑蚕丝面料，舒适亲肤"
+    },
+    {
+      "id": "SP-20250301",
+      "createdAt": "2025-03-01",
+      "code": "PROD00019",
+      "name": "全自动咖啡机",
+      "price": 1599,
+      "status": "active",
+      "category": "家居用品",
+      "description": "豆粉两用，一键萃取浓缩"
+    },
+    {
+      "id": "SP-202606185541",
+      "createdAt": "2026-06-18",
+      "code": "PROD00021",
+      "name": "沈星回等身立牌（光猎版）",
+      "price": 999,
+      "status": "active",
+      "category": "家居用品",
+      "description": "沈星回等身立牌，匠心打造，温暖陪伴"
+    }
+  ]
+}

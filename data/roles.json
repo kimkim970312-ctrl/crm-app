@@ -1,0 +1,166 @@
+[
+  {
+    "id": "R-00001",
+    "createdAt": "2026-06-01",
+    "name": "超级管理员",
+    "permissions": [
+      {
+        "pageKey": "leads",
+        "pageName": "线索管理",
+        "features": [
+          "view",
+          "create",
+          "edit",
+          "delete"
+        ],
+        "dataScope": "all"
+      },
+      {
+        "pageKey": "products",
+        "pageName": "商品管理",
+        "features": [
+          "view",
+          "create",
+          "edit",
+          "delete"
+        ],
+        "dataScope": "all"
+      },
+      {
+        "pageKey": "orders",
+        "pageName": "订单管理",
+        "features": [
+          "view",
+          "create",
+          "edit",
+          "delete"
+        ],
+        "dataScope": "all"
+      },
+      {
+        "pageKey": "reports",
+        "pageName": "数据仪表盘",
+        "features": [
+          "view",
+          "create",
+          "edit",
+          "delete"
+        ],
+        "dataScope": "all"
+      },
+      {
+        "pageKey": "roles",
+        "pageName": "角色与权限管理",
+        "features": [
+          "view",
+          "create",
+          "edit",
+          "delete"
+        ],
+        "dataScope": "all"
+      },
+      {
+        "pageKey": "accounts",
+        "pageName": "账号管理",
+        "features": [
+          "view",
+          "create",
+          "edit",
+          "delete"
+        ],
+        "dataScope": "all"
+      }
+    ]
+  },
+  {
+    "id": "R-00002",
+    "createdAt": "2026-06-18",
+    "name": "销售总监",
+    "permissions": [
+      {
+        "pageKey": "leads",
+        "pageName": "线索管理",
+        "features": [
+          "view",
+          "create",
+          "edit",
+          "delete"
+        ],
+        "dataScope": "all"
+      },
+      {
+        "pageKey": "products",
+        "pageName": "商品管理",
+        "features": [
+          "view",
+          "create",
+          "edit",
+          "delete"
+        ],
+        "dataScope": "all"
+      },
+      {
+        "pageKey": "orders",
+        "pageName": "订单管理",
+        "features": [
+          "view",
+          "create",
+          "edit",
+          "delete"
+        ],
+        "dataScope": "all"
+      },
+      {
+        "pageKey": "reports",
+        "pageName": "数据仪表盘",
+        "features": [
+          "view",
+          "create",
+          "edit",
+          "delete"
+        ],
+        "dataScope": "all"
+      }
+    ]
+  },
+  {
+    "id": "R-00003",
+    "createdAt": "2026-06-18",
+    "name": "销售专员",
+    "permissions": [
+      {
+        "pageKey": "leads",
+        "pageName": "线索管理",
+        "features": [
+          "view",
+          "edit",
+          "create",
+          "delete"
+        ],
+        "dataScope": "self"
+      },
+      {
+        "pageKey": "products",
+        "pageName": "商品管理",
+        "features": [
+          "view",
+          "create",
+          "edit",
+          "delete"
+        ],
+        "dataScope": "self"
+      },
+      {
+        "pageKey": "orders",
+        "pageName": "订单管理",
+        "features": [
+          "view",
+          "create",
+          "delete",
+          "edit"
+        ],
+        "dataScope": "self"
+      }
+    ]
+  }
+]
