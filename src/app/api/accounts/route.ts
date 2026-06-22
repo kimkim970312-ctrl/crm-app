@@ -82,14 +82,14 @@ export async function GET(request: NextRequest) {
     }
 
     const total = accounts.length;
-    const totalPages = Math.ceil(total / filter.pageSize);
-    const start = (filter.page - 1) * filter.pageSize;
-    const items = accounts.slice(start, start + filter.pageSize);
+    const totalPages = Math.ceil(total / filter.pageSize!);
+    const start = (filter.page! - 1) * filter.pageSize!;
+    const items = accounts.slice(start, start + filter.pageSize!);
 
     // 返回时不暴露密码
     const safeItems = items.map(({ password, ...rest }) => rest);
 
-    const response: AccountListResponse = { items: safeItems, total, page: filter.page, pageSize: filter.pageSize, totalPages };
+    const response: AccountListResponse = { items: safeItems, total, page: filter.page!, pageSize: filter.pageSize!, totalPages };
     return NextResponse.json(response);
   } catch (error) {
     console.error('GET /api/accounts error:', error);
